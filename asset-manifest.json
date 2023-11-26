@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Curso-React/static/css/main.29d99719.css",
+    "main.js": "/Curso-React/static/js/main.5292ec31.js",
+    "index.html": "/Curso-React/index.html",
+    "static/media/check.svg": "/Curso-React/static/media/check.19e108eba6292f065485c5933c328545.svg",
+    "static/media/delete.svg": "/Curso-React/static/media/delete.0aefd830c387eab561c606a1cbef5c1c.svg",
+    "main.29d99719.css.map": "/Curso-React/static/css/main.29d99719.css.map",
+    "main.5292ec31.js.map": "/Curso-React/static/js/main.5292ec31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29d99719.css",
+    "static/js/main.5292ec31.js"
+  ]
+}
